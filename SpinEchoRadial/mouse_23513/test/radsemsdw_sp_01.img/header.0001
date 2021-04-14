@@ -1,0 +1,20 @@
+#!/usr/local/fdf/startup
+float  rank = 2;
+char  *spatial_rank = "2dfov";
+char  *storage = "float";
+float  bits = 32;
+char  *type = "absval";
+float  matrix[] = {64, 64};
+char  *abscissa[] = {"cm", "cm"};
+char  *ordinate[] = { "intensity" };
+float  span[] = {3.200000, 3.200000};
+float  origin[] = {0.000000, 0.000000};
+char  *nucleus[] = {"H1", "C13"};
+float  nucfreq[] = {200.914869, 50.524857};
+float  location[] = {0, 0, -0.2749};
+float  roi[] = {  3.200000,   3.200000,   0.050000};
+float  orientation[] = {-1.000000, 0.000000, 0.000000, 0.000000, -1.000000, 0.000000, 0.000000, 0.000000, 1.000000};
+int    slice_no = 1;
+int    slices = 12;
+int    echo_no = 1;
+int    echoes = 1;
