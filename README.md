@@ -10,4 +10,5 @@ Inside folder “Mouse Abdomen_RAD_DWI_Test_Retest_4.7T”, there are 10 subfold
     * M0 and M0SD are parametric maps of M0 and standard deviation of M0
     * BL and BLSD are parametric maps of BL and standard deviation of BL. 
     * Residue
-*	radsemsdw_sp_02.img contains .raw file.
+
+![Image](info/dw-se-rad.png)
