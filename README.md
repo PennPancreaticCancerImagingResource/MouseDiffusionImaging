@@ -11,4 +11,6 @@ Inside folder “Mouse_Abdomen_RAD_DWI_Test_Retest_4.7T”, there are 10 subfold
     * BL and BLSD are parametric maps of BL and standard deviation of BL. 
     * Residue
 
+If you need to convert the fdf files to nifti (or any other ITK supported format), please see https://github.com/PennPancreaticCancerImagingResource/VarianSliceConvert
+
 ![Image](info/dw-se-rad.png)
